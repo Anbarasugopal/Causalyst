@@ -10,12 +10,18 @@ venv/
 .env
 token.json
 
-# Data files (too large for GitHub)
+# Large data/model files
 *.parquet
-*.pt
-*.sqlite
 backend_artifacts-20260810T073325Z-1-001/
+causal_graph.pkl
+causal_graph.pt
+model_checkpoint_graph.pt
+causalyst/data/fii_dii_history.sqlite
+evaluation_results/
 
 # Misc
 *.pyc
 .DS_Store
+Thumbs.db
+ablation_results.json
+metadata.json
