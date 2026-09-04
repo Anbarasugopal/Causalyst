@@ -1,0 +1,17 @@
+{
+  "0": "run_clustering.py",
+  "1": "MarketGraph",
+  "2": "demo.py",
+  "3": "real_data_experiment.py",
+  "4": "evaluate_models.py",
+  "5": "src/causal_discovery.py",
+  "6": "api.py",
+  "7": "Causalyst — working code scaffold",
+  "8": "agents.py",
+  "9": "Causalyst — Project Handoff Brief",
+  "10": "fii_dii_scraper_TEMPLATE.py",
+  "11": "make_equations.py",
+  "12": "make_causal_heatmap.py",
+  "13": "gnn_prototype.py",
+  "14": "causal_discovery (1).py"
+}

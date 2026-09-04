@@ -1,0 +1,2546 @@
+{
+  "360ONE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "3MINDIA": {
+    "sector": "Diversified",
+    "source": "official_nse_index_csv"
+  },
+  "AADHARHFC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "AARTIDRUGS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "AARTIIND": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "AAVAS": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ABB": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ABBOTINDIA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ABCAPITAL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ABDL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ABFRL": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "ABLBL": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "ABREL": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "ABSLAMC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ACC": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "ACCELYA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ACE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ACMESOLAR": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "ACUTAAS": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ADANIENSOL": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "ADANIENT": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "ADANIGREEN": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "ADANIPORTS": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "ADANIPOWER": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "AEGISCHEM": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "AEGISLOG": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "AEGISVOPAK": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "AFCONS": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "AFFLE": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "AHLUCONT": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "AIAENG": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "AIIL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "AJANTPHARM": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "AKZOINDIA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ALKEM": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ALKYLAMINE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ALLCARGO": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "AMARAJABAT": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "AMBER": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "AMBUJACEM": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "ANANDRATHI": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ANANTRAJ": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "ANGELONE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ANTHEM": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ANURAS": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "APARINDS": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "APLAPOLLO": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "APLLTD": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "APOLLOHOSP": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "APOLLOTYRE": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "APTUS": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ARE&M": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "ASAHIINDIA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "ASHOKA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ASHOKLEY": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ASIANPAINT": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "ASTERDM": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ASTRAL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ASTRAZEN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ATGL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "ATHERENERG": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "ATUL": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "AUBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "AUROPHARMA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "AVANTIFEED": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "AWL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "AXISBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BAJAJ-AUTO": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "BAJAJCON": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "BAJAJELEC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "BAJAJFINSV": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BAJAJHFL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BAJAJHLDNG": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BAJFINANCE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BALKRISIND": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "BALMLAWRIE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "BALRAMCHIN": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BANDHANBNK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BANKBARODA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BANKINDIA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BASF": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "BATAINDIA": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "BAYERCROP": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "BBTC": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BDL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BEL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BELRISE": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "BEML": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BERGEPAINT": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "BHARATFORG": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "BHARATRAS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "BHARTIARTL": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "BHARTIHEXA": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "BHEL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BIKAJI": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BIOCON": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "BIRLACORPN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "BLS": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "BLUEDART": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "BLUEJET": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "BLUESTARCO": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "BOSCHLTD": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "BPCL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "BRIGADE": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "BRITANNIA": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "BSE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "BSOFT": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "CAMS": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CANBK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CANFINHOME": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CANHLIFE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CAPLIPOINT": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "CARBORUNIV": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "CARTRADE": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "CASTROLIND": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "CCL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "CDSL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CEATLTD": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "CEMPRO": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "CENTRALBK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CENTURYPLY": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "CENTURYTEX": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "CERA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "CESC": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "CGCL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CGPOWER": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "CHALET": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "CHAMBLFERT": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "CHENNPETRO": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "CHOICEIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CHOLAFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CHOLAHLDNG": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CIEINDIA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "CIPLA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "CLEAN": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "COALINDIA": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "COCHINSHIP": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "COFORGE": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "COHANCE": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "COLPAL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "CONCOR": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "CONCORDBIO": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "COROMANDEL": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "CPPLUS": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "CRAFTSMAN": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "CREDITACC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CRISIL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CROMPTON": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "CUB": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "CUMMINSIND": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "CYIENT": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "DABUR": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "DALBHARAT": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "DATAPATTNS": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "DBCORP": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "DCBBANK": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "DCMSHRIRAM": {
+    "sector": "Diversified",
+    "source": "official_nse_index_csv"
+  },
+  "DEEPAKFERT": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "DEEPAKNTR": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "DELHIVERY": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "DELTACORP": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "DEN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "DEVYANI": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "DHANUKA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "DIVISLAB": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "DIXON": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "DLF": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "DMART": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "DOMS": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "DRREDDY": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ECLERX": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "EDELWEISS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "EICHERMOT": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "EIDPARRY": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "EIHOTEL": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "ELECON": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ELGIEQUIP": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "EMAMILTD": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "EMCURE": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "EMMVEE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ENDURANCE": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "ENGINERSIN": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "ENRIN": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ERIS": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ESABINDIA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ESCORTS": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ETERNAL": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "EXIDEIND": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "FACT": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "FCONSUMER": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "FDC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "FEDERALBNK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "FINCABLES": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "FINPIPE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "FIRSTCRY": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "FIVESTAR": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "FLUOROCHEM": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "FMGOETZE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "FORCEMOT": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "FORTIS": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "FSL": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "GABRIEL": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "GAEL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GAIL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "GALLANTT": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GARFIBRES": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GEPIL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GESHIP": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "GET_D": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GICRE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "GILLETTE": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GLAND": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "GLAXO": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "GLENMARK": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "GMDCLTD": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "GMRAIRPORT": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "GMRINFRA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GNFC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GODFRYPHLP": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GODIGIT": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "GODREJCP": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GODREJIND": {
+    "sector": "Diversified",
+    "source": "official_nse_index_csv"
+  },
+  "GODREJPROP": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "GPIL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GPPL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GRANULES": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "GRAPHITE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GRASIM": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "GRAVITA": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "GREAVESCOT": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GRINDWELL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GROWW": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "GRSE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "GSFC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GSKCONS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GSPL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GUJALKALI": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "GVT&D": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HAL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HATHWAY": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "HAVELLS": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "HBLENGINE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HCLTECH": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "HDBFS": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "HDFC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "HDFCAMC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "HDFCBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "HDFCLIFE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "HEG": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HEIDELBERG": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "HEROMOTOCO": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "HEXAWARE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "HEXT": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "HFCL": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "HINDALCO": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "HINDCOPPER": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "HINDPETRO": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "HINDUNILVR": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HINDZINC": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "HOMEFIRST": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "HONASA": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HONAUT": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "HSCL": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "HUDCO": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "HYUNDAI": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "IBREALEST": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ICICIAMC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ICICIBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ICICIGI": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ICICIPRULI": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ICRA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "IDBI": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IDEA": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "IDFC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "IDFCFIRSTB": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IEX": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IFCI": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IGIL": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "IGL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "IIFL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IKS": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "INDGN": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "INDHOTEL": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "INDIACEM": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "INDIAMART": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "INDIANB": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "INDIGO": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "INDOCO": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "INDUSINDBK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "INDUSTOWER": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "INFY": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "INGERRAND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "INOXLEISUR": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "INOXWIND": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "INTELLECT": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "IOB": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IOC": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "IPCALAB": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "IRB": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "IRCON": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "IRCTC": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "IREDA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "IRFC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ITC": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ITCHOTELS": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "ITI": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "J&KBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "JAGRAN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JAINREC": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "JBCHEPHARM": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JBMA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "JCHAC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JINDALSAW": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "JINDALSTEL": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "JIOFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "JKCEMENT": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "JKLAKSHMI": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JKPAPER": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JKTYRE": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "JMFINANCIL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "JPPOWER": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "JSL": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "JSWCEMENT": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "JSWDULUX": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "JSWENERGY": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "JSWHL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JSWINFRA": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "JSWSTEEL": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "JUBLFOOD": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "JUBLINGREA": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "JUBLPHARMA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "JUSTDIAL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JWL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "JYOTHYLAB": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "JYOTICNC": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "KAJARIACER": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "KALPATPOWR": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "KALYANKJIL": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "KANSAINER": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "KARURVYSYA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "KAYNES": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "KEC": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "KEI": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "KFINTECH": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "KIMS": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "KIRLOSENG": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "KNRCON": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "KOTAKBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "KPIL": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "KPITTECH": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "KPRMILL": {
+    "sector": "Textiles",
+    "source": "official_nse_index_csv"
+  },
+  "KRBL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "KSB": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "KSCL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "KTKBANK": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "LALPATHLAB": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "LAOPALA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "LATENTVIEW": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "LAURUSLABS": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "LAXMIMACH": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "LEMONTREE": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "LENSKART": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "LGEINDIA": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "LICHSGFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "LICI": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "LINDEINDIA": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "LLOYDSME": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "LODHA": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "LT": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "LTF": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "LTFOODS": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "LTM": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "LTTS": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "LUPIN": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "L_TFH": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "M&M": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "M&MFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "MAHABANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "MAHINDCIE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MAHSCOOTER": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MAHSEAMLES": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MANAPPURAM": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "MANKIND": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "MAPMYINDIA": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "MARICO": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "MARUTI": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "MAXHEALTH": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "MAZDOCK": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "MCDOWELL-N": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MCX": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "MEDANTA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "MEESHO": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "MFSL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "MGL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "MHRIL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MINDACORP": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "MINDAIND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MINDTREE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MMTC": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "MOIL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MOTHERSON": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "MOTHERSUMI": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "MOTILALOFS": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "MPHASIS": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "MRF": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "MRPL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "MSUMI": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "MUTHOOTFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "M_M": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "M_MFIN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "NAM-INDIA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "NATCOPHARM": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "NATIONALUM": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "NAUKRI": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "NAVA": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "NAVINFLUOR": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "NAVNETEDUL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "NBCC": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "NCC": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "NESCO": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "NESTLEIND": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "NETWEB": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "NETWORK18": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "NEULANDLAB": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "NEWGEN": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "NH": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "NHPC": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "NIACL": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "NIITLTD": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "NILKAMAL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "NIVABUPA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "NLCINDIA": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "NMDC": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "NSLNISP": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "NTPC": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "NTPCGREEN": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "NUVAMA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "NUVOCO": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "NYKAA": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "OBEROIRLTY": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "OFSS": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "OIL": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "OLAELEC": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "OLECTRA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "OMAXE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "ONESOURCE": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ONGC": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "PAGEIND": {
+    "sector": "Textiles",
+    "source": "official_nse_index_csv"
+  },
+  "PARADEEP": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "PATANJALI": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "PAYTM": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "PCBL": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "PEL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "PERSISTENT": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "PETRONET": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "PFC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "PFIZER": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "PFOCUS": {
+    "sector": "Media Entertainment & Publication",
+    "source": "official_nse_index_csv"
+  },
+  "PGEL": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "PGHH": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "PGHL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "PHOENIXLTD": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "PIDILITIND": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "PIIND": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "PINELABS": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "PIRAMALFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "PNB": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "PNBHOUSING": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "POLICYBZR": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "POLYCAB": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "POLYMED": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "POONAWALLA": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "POWERGRID": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "POWERINDIA": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "PPLPHARMA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "PREMIERENE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "PRESTIGE": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "PRSMJOHNSN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "PTC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "PTCIL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "PVR": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "PVRINOX": {
+    "sector": "Media Entertainment & Publication",
+    "source": "official_nse_index_csv"
+  },
+  "PWL": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "RADICO": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "RAILTEL": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "RAIN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RAINBOW": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "RAJESHEXPO": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RALLIS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RAMCOCEM": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "RATNAMANI": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RAYMOND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RBLBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "RCF": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RECLTD": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "REDINGTON": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "RELAXO": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RELIANCE": {
+    "sector": "Oil Gas & Consumable Fuels",
+    "source": "official_nse_index_csv"
+  },
+  "RESPONIND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "RHIM": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "RITES": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "RKFORGE": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "RPOWER": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "RRKABEL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "RVNL": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "SAGILITY": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "SAIL": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "SAILIFE": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "SAMMAANCAP": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SANOFI": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SAPPHIRE": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "SARDAEN": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "SAREGAMA": {
+    "sector": "Media Entertainment & Publication",
+    "source": "official_nse_index_csv"
+  },
+  "SBFC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SBICARD": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SBILIFE": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SBIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SCHAEFFLER": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "SCHNEIDER": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "SCI": {
+    "sector": "Services",
+    "source": "official_nse_index_csv"
+  },
+  "SHILPAMED": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SHOPERSTOP": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SHREECEM": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "SHRIRAMCIT": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SHRIRAMFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SHYAMMETL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "SIEMENS": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "SIGNATURE": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "SJVN": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "SKFINDIA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SOBHA": {
+    "sector": "Realty",
+    "source": "official_nse_index_csv"
+  },
+  "SOLARINDS": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "SONACOMS": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "SONATSOFTW": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "SPARC": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SPLPETRO": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "SRF": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "SRTRANSFIN": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "STAR": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "STARHEALTH": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SUDARSCHEM": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SUMICHEM": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "SUNCLAYLTD": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SUNDARMFIN": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "SUNDRMFAST": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SUNPHARMA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "SUNTECK": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SUNTV": {
+    "sector": "Media Entertainment & Publication",
+    "source": "official_nse_index_csv"
+  },
+  "SUPPETRO": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SUPRAJIT": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SUPREMEIND": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "SUZLON": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "SWANCORP": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "SWANENERGY": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SWIGGY": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "SYMPHONY": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "SYNGENE": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "SYRMA": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TARIL": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TATACAP": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "TATACHEM": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "TATACOMM": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "TATACONSUM": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TATAELXSI": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "TATAINVEST": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "TATAMOTORS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "TATAPOWER": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "TATASTEEL": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "TATATECH": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "TBOTEK": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "TCI": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "TCS": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "TECHM": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "TECHNOE": {
+    "sector": "Construction",
+    "source": "official_nse_index_csv"
+  },
+  "TEGA": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TEJASNET": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "TENNIND": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "THELEELA": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "THERMAX": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TIDEWATER": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "TIINDIA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "TIMKEN": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TITAGARH": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TITAN": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "TMCV": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TMPV": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "TORNTPHARM": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "TORNTPOWER": {
+    "sector": "Power",
+    "source": "official_nse_index_csv"
+  },
+  "TRAVELFOOD": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "TRENT": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "TRIDENT": {
+    "sector": "Textiles",
+    "source": "official_nse_index_csv"
+  },
+  "TRITURBINE": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "TTKPRESTIG": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "TTML": {
+    "sector": "Telecommunication",
+    "source": "official_nse_index_csv"
+  },
+  "TV18BRDCST": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "TVSMOTOR": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "UBL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "UCOBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ULTRACEMCO": {
+    "sector": "Construction Materials",
+    "source": "official_nse_index_csv"
+  },
+  "UNIONBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "UNITDSPR": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "UNOMINDA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "UPL": {
+    "sector": "Chemicals",
+    "source": "official_nse_index_csv"
+  },
+  "URBANCO": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "USHAMART": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "UTIAMC": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "VAIBHAVGBL": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VAKRANGEE": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VBL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  },
+  "VEDL": {
+    "sector": "Metals & Mining",
+    "source": "official_nse_index_csv"
+  },
+  "VENKEYS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VESUVIUS": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VGUARD": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VIJAYA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "VINATIORGA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VIPIND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VMART": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VMM": {
+    "sector": "Consumer Services",
+    "source": "official_nse_index_csv"
+  },
+  "VOLTAS": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "VSTIND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "VTL": {
+    "sector": "Textiles",
+    "source": "official_nse_index_csv"
+  },
+  "WAAREEENER": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "WABCOINDIA": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "WELCORP": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "WELSPUNIND": {
+    "sector": "Unknown",
+    "source": "missing"
+  },
+  "WELSPUNLIV": {
+    "sector": "Textiles",
+    "source": "official_nse_index_csv"
+  },
+  "WHIRLPOOL": {
+    "sector": "Consumer Durables",
+    "source": "official_nse_index_csv"
+  },
+  "WIPRO": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "WOCKPHARMA": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "YESBANK": {
+    "sector": "Financial Services",
+    "source": "official_nse_index_csv"
+  },
+  "ZEEL": {
+    "sector": "Media Entertainment & Publication",
+    "source": "official_nse_index_csv"
+  },
+  "ZENSARTECH": {
+    "sector": "Information Technology",
+    "source": "official_nse_index_csv"
+  },
+  "ZENTEC": {
+    "sector": "Capital Goods",
+    "source": "official_nse_index_csv"
+  },
+  "ZFCVINDIA": {
+    "sector": "Automobile and Auto Components",
+    "source": "official_nse_index_csv"
+  },
+  "ZYDUSLIFE": {
+    "sector": "Healthcare",
+    "source": "official_nse_index_csv"
+  },
+  "ZYDUSWELL": {
+    "sector": "Fast Moving Consumer Goods",
+    "source": "official_nse_index_csv"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "full_period_edge_count": 34,
+  "full_period_sector_breakdown": {
+    "within_sector": 13,
+    "cross_sector": 21
+  },
+  "full_period_edges": [
+    {
+      "from": "RELIANCE",
+      "to": "TCS",
+      "lag": 2,
+      "p_value": 0.03242
+    },
+    {
+      "from": "RELIANCE",
+      "to": "HDFCBANK",
+      "lag": 2,
+      "p_value": 0.00348
+    },
+    {
+      "from": "RELIANCE",
+      "to": "INFY",
+      "lag": 2,
+      "p_value": 2e-05
+    },
+    {
+      "from": "RELIANCE",
+      "to": "ICICIBANK",
+      "lag": 1,
+      "p_value": 0.04439
+    },
+    {
+      "from": "RELIANCE",
+      "to": "SBIN",
+      "lag": 2,
+      "p_value": 0.02732
+    },
+    {
+      "from": "RELIANCE",
+      "to": "WIPRO",
+      "lag": 2,
+      "p_value": 0.00391
+    },
+    {
+      "from": "RELIANCE",
+      "to": "AXISBANK",
+      "lag": 1,
+      "p_value": 0.00092
+    },
+    {
+      "from": "TCS",
+      "to": "INFY",
+      "lag": 2,
+      "p_value": 0.02043
+    },
+    {
+      "from": "TCS",
+      "to": "ICICIBANK",
+      "lag": 1,
+      "p_value": 0.00221
+    },
+    {
+      "from": "TCS",
+      "to": "AXISBANK",
+      "lag": 1,
+      "p_value": 0.03219
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "TCS",
+      "lag": 2,
+      "p_value": 0.00252
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "INFY",
+      "lag": 2,
+      "p_value": 0.00125
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "KOTAKBANK",
+      "lag": 2,
+      "p_value": 0.02731
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "ICICIBANK",
+      "lag": 2,
+      "p_value": 0.00696
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "SBIN",
+      "lag": 1,
+      "p_value": 0.00507
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "HCLTECH",
+      "lag": 2,
+      "p_value": 0.04621
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "WIPRO",
+      "lag": 2,
+      "p_value": 0.01199
+    },
+    {
+      "from": "HDFCBANK",
+      "to": "AXISBANK",
+      "lag": 1,
+      "p_value": 0.00112
+    },
+    {
+      "from": "KOTAKBANK",
+      "to": "RELIANCE",
+      "lag": 2,
+      "p_value": 0.02385
+    },
+    {
+      "from": "KOTAKBANK",
+      "to": "INFY",
+      "lag": 2,
+      "p_value": 0.01696
+    },
+    {
+      "from": "KOTAKBANK",
+      "to": "ICICIBANK",
+      "lag": 2,
+      "p_value": 0.01051
+    },
+    {
+      "from": "KOTAKBANK",
+      "to": "SBIN",
+      "lag": 2,
+      "p_value": 0.03015
+    },
+    {
+      "from": "KOTAKBANK",
+      "to": "AXISBANK",
+      "lag": 2,
+      "p_value": 0.00064
+    },
+    {
+      "from": "ICICIBANK",
+      "to": "RELIANCE",
+      "lag": 2,
+      "p_value": 0.00804
+    },
+    {
+      "from": "ICICIBANK",
+      "to": "HDFCBANK",
+      "lag": 1,
+      "p_value": 0.01023
+    },
+    {
+      "from": "ICICIBANK",
+      "to": "SBIN",
+      "lag": 1,
+      "p_value": 0.0021
+    },
+    {
+      "from": "SBIN",
+      "to": "ICICIBANK",
+      "lag": 2,
+      "p_value": 0.02993
+    },
+    {
+      "from": "HCLTECH",
+      "to": "ICICIBANK",
+      "lag": 1,
+      "p_value": 0.00247
+    },
+    {
+      "from": "HCLTECH",
+      "to": "SBIN",
+      "lag": 1,
+      "p_value": 0.04416
+    },
+    {
+      "from": "HCLTECH",
+      "to": "AXISBANK",
+      "lag": 1,
+      "p_value": 0.03368
+    },
+    {
+      "from": "AXISBANK",
+      "to": "HDFCBANK",
+      "lag": 2,
+      "p_value": 0.04011
+    },
+    {
+      "from": "AXISBANK",
+      "to": "INFY",
+      "lag": 1,
+      "p_value": 0.00981
+    },
+    {
+      "from": "AXISBANK",
+      "to": "SBIN",
+      "lag": 1,
+      "p_value": 0.00925
+    },
+    {
+      "from": "AXISBANK",
+      "to": "HCLTECH",
+      "lag": 2,
+      "p_value": 0.03019
+    }
+  ],
+  "h1_edge_count": 19,
+  "h2_edge_count": 29,
+  "jaccard_overlap": 0.143,
+  "edges_in_both_halves": [
+    "TCS->AXISBANK",
+    "RELIANCE->AXISBANK",
+    "KOTAKBANK->AXISBANK",
+    "INFY->TCS",
+    "RELIANCE->INFY",
+    "HDFCBANK->KOTAKBANK"
+  ]
+}

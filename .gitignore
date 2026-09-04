@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Secrets — NEVER push these
+.env
+token.json
+
+# Data files (too large for GitHub)
+*.parquet
+*.pt
+*.sqlite
+backend_artifacts-20260810T073325Z-1-001/
+
+# Misc
+*.pyc
+.DS_Store
